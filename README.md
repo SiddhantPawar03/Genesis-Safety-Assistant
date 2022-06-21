@@ -26,7 +26,7 @@ Clone the Repository in the folder then for respective thing do as per the follo
 - Select for ESP-32 Module from boards manager (Necessary ESP-32 [Link](https://arduino-esp8266.readthedocs.io/en/latest/installing.html) for Installation Process)
 - Select for desired PORT.
 - Do the following Connections as shown below.
-![image](https://user-images.githubusercontent.com/85052056/174834143-7973201b-c219-4aa7-a99d-9350ae2390f1.png)
+![ss-1](https://user-images.githubusercontent.com/85052056/174857509-7d5141c7-fc12-442a-a834-e470b713c582.png)
 - Upload Sketch & Run.
 
 ## Application
