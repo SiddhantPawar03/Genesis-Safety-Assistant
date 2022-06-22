@@ -34,7 +34,6 @@ Dashboard Screen | SoS Screen | SMS Sent to victim's family
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/90468365/174962054-af4a8693-9ace-429f-9bea-c52f5010f68d.png)|![image](https://user-images.githubusercontent.com/90468365/174962126-5fb2f5b8-2e4a-4b8d-8564-4f51447427cc.png)|![image](https://user-images.githubusercontent.com/90468365/174962152-401e031c-6e45-4818-bca9-f1accead20b3.png)
 Nearest Ambulance | Nearest Police Stattions | Nearest tow service
-:-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/90468365/174962447-a06dcfbe-a6b8-4e65-8e01-2c813ecb7a77.png)|![image](https://user-images.githubusercontent.com/90468365/174962480-89090d33-7744-4bb2-8084-5d373c7a46fb.png)|![image](https://user-images.githubusercontent.com/90468365/174962505-f90f341e-0231-4ba3-834b-e8bc4a4751b7.png)
 
 
