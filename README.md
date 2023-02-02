@@ -1,6 +1,4 @@
 
-# Welcome to Team Genesis Repository👋
-
 # Project Title - Safety Assistant
 
 # Aim
@@ -44,5 +42,6 @@ Nearest Ambulance | Nearest Police Stattions | Nearest tow service
 # Project Maintainers 😃
 - Siddhant Pawar
 - Pavan Bhadane
-- Maruti Patil
-- Ayush Negi
+- Rahul Ponnuru
+- Rohit Patil
+- Ayush Patni
